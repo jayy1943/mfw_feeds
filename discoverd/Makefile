@@ -4,7 +4,7 @@ PKG_NAME:=discoverd
 PKG_LICENSE:=GPL-2.0
 PKG_MAINTAINER:=Sebastien Delafond <sdelafond@gmail.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://gitub.com/untangle/discoverd.git
+PKG_SOURCE_URL:=https://github.com/untangle/discoverd.git
 
 include ../version.mk
 

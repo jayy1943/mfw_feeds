@@ -4,7 +4,7 @@ PKG_NAME:=wan-utils
 PKG_LICENSE:=GPL-2.0
 PKG_MAINTAINER:=John Phillips <jphillips@arista.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://gitub.com/untangle/wan-utils.git
+PKG_SOURCE_URL:=https://github.com/untangle/wan-utils.git
 
 include ../version.mk
 include $(INCLUDE_DIR)/package.mk
