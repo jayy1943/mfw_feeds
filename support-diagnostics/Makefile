@@ -4,7 +4,7 @@ PKG_NAME:=support-diagnostics
 PKG_LICENSE:=GPL-2.0
 PKG_MAINTAINER:=Chris Blaise <cblaise@arista.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=git@github.com:untangle/support-diagnostics.git
+PKG_SOURCE_URL:=https://gitub.com/untangle/support-diagnostics.git
 
 include ../version.mk
 

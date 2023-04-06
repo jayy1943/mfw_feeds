@@ -4,7 +4,7 @@ PKG_NAME:=client-license-service
 PKG_LICENSE:=GPL-2.0
 PKG_MAINTAINER:=Sebastien Delafond <sdelafond@gmail.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=git@github.com:untangle/client-license-service.git
+PKG_SOURCE_URL:=https://gitub.com/untangle/client-license-service.git
 
 include ../version.mk
 

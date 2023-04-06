@@ -4,7 +4,7 @@ PKG_NAME:=alertd
 PKG_LICENSE:=GPL-2.0
 PKG_MAINTAINER:=Sebastien Delafond <sdelafond@gmail.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=git@github.com:untangle/alertd.git
+PKG_SOURCE_URL:=https://gitub.com/untangle/alertd.git
 
 include ../version.mk
 
