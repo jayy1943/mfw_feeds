@@ -8,7 +8,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=dpdk
 PKG_MAINTAINER:=Christian Rasmussen <crasmussen@arista.com>
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=git@github.com:aristanetworks/dpdk.git
+PKG_SOURCE_URL:=git://dpdk.org/dpdk-stable
 
 include ../version.mk
 
